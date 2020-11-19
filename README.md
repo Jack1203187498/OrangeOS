@@ -1,6 +1,6 @@
 # OrangeOS
 
-this is gonna to be the homework of the OS experiment class
+this is gonna be the homework of the OS experiment class
 
 hope I can get all this done
 
